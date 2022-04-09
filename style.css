@@ -1,0 +1,13 @@
+.primary{
+    border: solid 1px black;
+    margin-bottom: 40px;
+}
+
+.primary p{
+    border: solid 1px black;
+}
+
+section{
+    border: solid 1px red;
+    padding: 5px;
+}
